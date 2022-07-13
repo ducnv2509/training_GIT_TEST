@@ -8,5 +8,4 @@ public class TrainiGitTestApplication {
     public static void main(String[] args) {
         SpringApplication.run(TrainiGitTestApplication.class, args);
     }
-
 }
