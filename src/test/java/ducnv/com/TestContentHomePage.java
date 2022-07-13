@@ -10,6 +10,7 @@ import org.testng.annotations.*;
 public class TestContentHomePage {
     //    https://thinkpro.vn/laptop
     // http://localhost:3000/......
+//    https://live.techpanda.org/
     WebDriver driver;
 
     @BeforeMethod
